@@ -10,6 +10,6 @@ public class BillingServiceController {
 
 	@GetMapping("/welcome")
 	public String displayMessage() {
-		 return "welcome to Hyderabad";
+		 return "welcome to Hyderabad hitec city";
 	}
 }
